@@ -1,7 +1,7 @@
 "use strict";
-(self["webpackChunksnake"] = self["webpackChunksnake"] || []).push([[67],{
+(self["webpackChunksnake"] = self["webpackChunksnake"] || []).push([[972],{
 
-/***/ 4768:
+/***/ 9509:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 // ESM COMPAT FLAG
@@ -14,7 +14,7 @@ __webpack_require__.d(__webpack_exports__, {
 
 // EXTERNAL MODULE: ./node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js
 var runtime_core_esm_bundler = __webpack_require__(6252);
-;// CONCATENATED MODULE: ./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[1]!./node_modules/vue-loader/dist/index.js??ruleSet[1].rules[14].use[0]!./src/page/dictionariesEdit.vue?vue&type=template&id=f5d045f8
+;// CONCATENATED MODULE: ./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[1]!./node_modules/vue-loader/dist/index.js??ruleSet[1].rules[14].use[0]!./src/page/dictionariesEdit.vue?vue&type=template&id=26e6f5a4
 
 
 const _hoisted_1 = { class: "\n      pt-20\n      w-full\n      box-border\n      px-10\n      h-screen\n      max-h-screen\n      overflow-y-scroll\n    " }
@@ -42,7 +42,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     ])
   ]))
 }
-;// CONCATENATED MODULE: ./src/page/dictionariesEdit.vue?vue&type=template&id=f5d045f8
+;// CONCATENATED MODULE: ./src/page/dictionariesEdit.vue?vue&type=template&id=26e6f5a4
 
 // EXTERNAL MODULE: ./src/component/cascader.vue + 9 modules
 var cascader = __webpack_require__(8087);
